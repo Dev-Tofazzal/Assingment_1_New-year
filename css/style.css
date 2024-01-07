@@ -1,0 +1,71 @@
+/* common css which is need all section in this webpage start here */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+.title_primary{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+.common_clr{
+    color: #F00;
+}
+
+/* common css which is need all section in this webpage end here */
+
+/* banner css part start here */
+.banner{
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 170px 0px;
+}
+
+.banner_head{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+/* banner css part end here */
+
+/* all categories start here */
+.category{
+    margin: 50px 0px;
+}
+.category, .category_title{
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.category p{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.category_title{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.category_img{
+    padding: 30px 0px 120px 0px;
+}
+.category_img img{
+    width: 800px;
+}
+
+
+/* all categories end here */
