@@ -39,7 +39,7 @@
 }
 /* banner css part end here */
 
-/* all categories start here */
+/* all categories css start here */
 .category{
     margin: 50px 0px;
 }
@@ -66,6 +66,39 @@
 .category_img img{
     width: 800px;
 }
+/* all categories css end here */
+
+/* midnight party section css start here */
+.mid_night_img{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.mid_party_title{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    padding: 125px 500px 24px 125px;
+}
+.mid_party_description{
+    width: 650px;
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    padding-left: 125px;
+}
+.btn_primary{
+    color:white;
+    background-color:#F00;
+    margin:45px 0px 13px 125px ;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
 
 
-/* all categories end here */
+
+/* midnight party section css end here */
