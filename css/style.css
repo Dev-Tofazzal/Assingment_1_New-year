@@ -236,7 +236,13 @@
     width: 420px;
     height: 450px;
     padding-bottom: 10px;
-   
+    transition: 0.3s ease-in;
+}
+.items {
+    display: block;
+}
+.items:hover img{
+    width: 310px;
 }
 /* portfolio css part end here */
 
@@ -295,7 +301,7 @@
     font-size: 24px;
     font-weight: 500;
     line-height: 40px;
-    padding-right: 120px;
+    padding-right: 150px;
 }
 
 .foot_icon_img{
@@ -307,7 +313,7 @@
 }
 
 .foot_last_part{
-    padding-top: 15px;
+   padding-top:15px;
     color: #FFF;
     font-size: 24px;
     font-weight: 500;
