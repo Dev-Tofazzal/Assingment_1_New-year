@@ -185,3 +185,51 @@
 }
 
 /* bonus part css end here */
+/* holiday part start here */
+.holiday_main{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.holiday_main h5{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+.holiday_main h2{
+    font-size: 72px;
+    font-weight: 900;
+    padding: 10px 0;
+}
+.holiday_main p{
+    color: rgba(7, 2, 17, 0.60);
+    width: 1055px;
+    padding:15px 100px 10px 150px ;
+}
+/* holiday part end here */
+/* portfolio css part start here */
+.gift_title{
+    font-size: 24px;
+    font-weight: 500;
+}
+.port_title{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    padding: 15px 0px 20px 0px;
+}
+.portfolio_main p{
+    color: rgba(7, 2, 17, 0.60);
+    width: 750px;
+    padding-bottom: 30px;
+}
+.portfolio_item_main{
+    display: flex;
+    justify-content: space-between;
+}
+.items img{
+    width: 420px;
+    height: 450px;
+    padding-bottom: 10px;
+   
+}
+/* portfolio css part end here */
