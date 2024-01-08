@@ -232,17 +232,19 @@
     display: flex;
     justify-content: space-between;
 }
+.items{
+    display: block;
+    padding-bottom: 10px;
+}
 .items img{
     width: 420px;
-    height: 450px;
-    padding-bottom: 10px;
-    transition: 0.3s ease-in;
+    height: 420px;
+    transition: 0.3s ease-in-out;
 }
-.items {
-    display: block;
-}
+
 .items:hover img{
     width: 310px;
+    height: 310px;
 }
 /* portfolio css part end here */
 
