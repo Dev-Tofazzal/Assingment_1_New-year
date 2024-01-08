@@ -226,7 +226,7 @@
 .portfolio_main p{
     color: rgba(7, 2, 17, 0.60);
     width: 750px;
-    padding-bottom: 100px;
+    padding-bottom: 5px;
 }
 .portfolio_item_main{
     display: flex;
